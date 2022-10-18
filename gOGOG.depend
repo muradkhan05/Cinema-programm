@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1665179880 source:c:\users\acer\desktop\c-dasturlash darslari\gogog\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<unistd.h>
+
